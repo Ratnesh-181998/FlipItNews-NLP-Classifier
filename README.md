@@ -271,15 +271,34 @@ Entertainment       0.96      0.88      0.92        77
 
 ### Dashboard Overview
 ![Dashboard](screenshots/dashboard_overview.png)
+<img width="2836" height="1472" alt="image" src="https://github.com/user-attachments/assets/f3fd122e-edfa-4587-a024-37e712ab2944" />
+<img width="2828" height="1452" alt="image" src="https://github.com/user-attachments/assets/d610a2cc-22a2-4a1d-8df1-9256d324d6e8" />
+<img width="2844" height="1440" alt="image" src="https://github.com/user-attachments/assets/0dbd7b38-c197-49f6-9478-8e03cd0351d9" />
+<img width="2869" height="1414" alt="image" src="https://github.com/user-attachments/assets/2670eef3-c694-4acd-888c-3e1d9078e608" />
+<img width="2831" height="1425" alt="image" src="https://github.com/user-attachments/assets/ab724d0c-f618-4e0d-b8ae-af4d2633223e" />
+<img width="2822" height="1407" alt="image" src="https://github.com/user-attachments/assets/fd4d18d1-76d9-41e6-8f2c-42e5dac00417" />
+<img width="2816" height="1398" alt="image" src="https://github.com/user-attachments/assets/c047fb75-94c3-4a52-b26d-095002369398" />
 
 ### Model Results
 ![Model Results](screenshots/model_results.png)
+<img width="2869" height="1408" alt="image" src="https://github.com/user-attachments/assets/30aa9013-a8ea-47cd-8621-a314fed0028f" />
+<img width="2841" height="1472" alt="image" src="https://github.com/user-attachments/assets/7419b10a-d2da-4787-9d6a-5d31006deaa2" />
 
 ### Predictions
 ![Predictions](screenshots/predictions.png)
+<img width="2863" height="1469" alt="image" src="https://github.com/user-attachments/assets/795a7956-31fd-474f-9214-95d8700f4725" />
+<img width="2748" height="1484" alt="image" src="https://github.com/user-attachments/assets/832f8f50-be47-4974-b178-35ed3d1574f6" />
+<img width="2856" height="1418" alt="image" src="https://github.com/user-attachments/assets/bd7ffbcf-dc2c-4c3d-90b4-a26af954f163" />
+<img width="2774" height="1447" alt="image" src="https://github.com/user-attachments/assets/0ea04ee6-5f6b-46c2-983b-1d70b4711365" />
+<img width="2794" height="1455" alt="image" src="https://github.com/user-attachments/assets/e57b0db4-7119-4210-87a2-37887f55408a" />
+<img width="2819" height="1462" alt="image" src="https://github.com/user-attachments/assets/10be74a5-6efa-4893-9f00-2f32fef69a7c" />
+<img width="2808" height="1472" alt="image" src="https://github.com/user-attachments/assets/b81d94a1-a8e8-432a-9c80-f8ef7dfc5636" />
+<img width="2856" height="1435" alt="image" src="https://github.com/user-attachments/assets/13456454-1ba6-41d2-8d0c-0606c3d56aca" />
 
 ### Activity Log
 ![Activity Log](screenshots/activity_log.png)
+<img width="2848" height="1447" alt="image" src="https://github.com/user-attachments/assets/94fdacbe-1971-4592-b636-65c81a0c39ee" />
+<img width="2866" height="1398" alt="image" src="https://github.com/user-attachments/assets/76e43435-44e5-42cf-8af7-f8575e81cde0" />
 
 ---
 
@@ -368,10 +387,10 @@ copies or substantial portions of the Software.
 
 **Ratnesh Kumar**
 
-- 📧 Email: [ratneshkumar181998@gmail.com](mailto:ratneshkumar181998@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ratnesh-kumar-181998](https://www.linkedin.com/in/ratnesh-kumar-181998)
+- 📧 Email: [rattudacsit2021gate@gmail.com](mailto:rattudacsit2021gate@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ratneshkumar1998/](https://www.linkedin.com/in/ratnesh-kumar-181998)
 - 🐙 GitHub: [@Ratnesh-181998](https://github.com/Ratnesh-181998)
-- 📱 Portfolio: [ratnesh-kumar.dev](https://ratnesh-kumar.dev)
+- 📱 Portfolio: [ratnesh-kumar.dev](https://github.com/Ratnesh-181998)
 
 ---
 
