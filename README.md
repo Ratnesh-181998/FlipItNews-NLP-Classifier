@@ -33,6 +33,11 @@
 - [Acknowledgments](#-acknowledgments)
 
 ---
+🚀 Live Demo
+
+**Streamlit Profile**: View on Streamlit Cloud(https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/)
+
+---
 
 ## 🎯 Overview
 
