@@ -35,7 +35,8 @@
 ---
 🚀 Live Demo
 
-**Streamlit Profile**: View on Streamlit Cloud(https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/)
+**Streamlit Profile**: https://share.streamlit.io/user/ratnesh-181998
+ - View on Streamlit Cloud : https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/
 
 ---
 
