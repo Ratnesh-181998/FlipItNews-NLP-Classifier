@@ -9,7 +9,7 @@
 
 **An advanced NLP system for automated news article classification using Word Embeddings and Machine Learning**
 
-[Live Demo](#-live-demo) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
+[Live Demo](https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
 
 </div>
 
