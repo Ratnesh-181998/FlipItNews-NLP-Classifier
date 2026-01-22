@@ -366,3 +366,21 @@ Dataset Statistics:
 [2025-11-28 12:59:05] UI Interaction: Viewed Predictions tab
 [2025-11-28 12:59:05] UI Interaction: Selected model for prediction - Model: SGD Classifier
 [2025-11-28 12:59:05] UI Interaction: Viewed Activity Log tab
+[2025-12-21 10:28:17] UI Interaction: App Started - User opened the Streamlit dashboard
+[2025-12-21 10:29:38] UI Interaction: Viewed Dataset Overview tab
+[2025-12-21 10:29:39] UI Interaction: Viewed Data Processing tab
+[2025-12-21 10:29:39] UI Interaction: Selected article for comparison - Index: 0
+[2025-12-21 10:29:39] UI Interaction: Viewed Model Results tab
+[2025-12-21 10:29:44] UI Interaction: Viewed Visualizations tab
+[2025-12-21 10:29:45] UI Interaction: Viewed Predictions tab
+[2025-12-21 10:29:45] UI Interaction: Selected model for prediction - Model: Naive Bayes
+[2025-12-21 10:29:45] UI Interaction: Viewed Activity Log tab
+[2025-12-22 14:45:23] UI Interaction: App Started - User opened the Streamlit dashboard
+[2025-12-22 14:46:37] UI Interaction: Viewed Dataset Overview tab
+[2025-12-22 14:46:37] UI Interaction: Viewed Data Processing tab
+[2025-12-22 14:46:37] UI Interaction: Selected article for comparison - Index: 0
+[2025-12-22 14:46:37] UI Interaction: Viewed Model Results tab
+[2025-12-22 14:46:40] UI Interaction: Viewed Visualizations tab
+[2025-12-22 14:46:41] UI Interaction: Viewed Predictions tab
+[2025-12-22 14:46:41] UI Interaction: Selected model for prediction - Model: Naive Bayes
+[2025-12-22 14:46:41] UI Interaction: Viewed Activity Log tab
